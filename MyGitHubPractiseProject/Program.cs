@@ -6,6 +6,7 @@
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Helo welocme to My GitHub Practise roject");
+                        Console.WriteLine("Helo welocme to My GitHub Practise roject");
         }
     }
 }
